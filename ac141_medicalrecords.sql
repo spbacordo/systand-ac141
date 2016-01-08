@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 17, 2015 at 04:24 AM
+-- Generation Time: Jan 08, 2016 at 03:58 AM
 -- Server version: 5.6.24
 -- PHP Version: 5.6.8
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `ac141_medical_records`
+-- Database: `ac141_medicalrecords`
 --
 
 -- --------------------------------------------------------
